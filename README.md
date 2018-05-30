@@ -20,6 +20,6 @@
 
 Ringraziamo il [PUG Romagna][3] per aver ispirato questo repository
 
-[1]: https://github.com/pugromagna/eventi/issues/new
-[2]: https://github.com/pugromagna/eventi/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc
+[1]: https://github.com/pug-roma/eventi/issues/new
+[2]: https://github.com/pug-roma/eventi/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc
 [3]: https://github.com/pugromagna/eventi
